@@ -1,0 +1,14 @@
+  
+Highlights & Device Specific Changes:
+Build type: Weekly
+Device: Xiaomi Mi8 (dipper)
+Device maintainer: ZeNiXxX
+
+
+===== 13 December, 2020 =====
+
+
+===== 11 December, 2020 =====
+
+
+===== 09 December, 2020 =====
